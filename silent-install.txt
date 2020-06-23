@@ -1,0 +1,10 @@
+-inst
+-license 200-431-1231-61
+-edahome c:\ibi\srv80\home
+-edaconf c:\ibi\srv80\wfs
+-port 8121
+-host localhost
+-approot drive:\ibi\apps
+-programfolder "wfrs"
+-pass Tap!oca64
+-nostart
